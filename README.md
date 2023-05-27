@@ -18,7 +18,7 @@ Style: #Hygge #Scandic #Japan #Podlahia
 
 [![instagram](https://img.shields.io/badge/WARZEM-0d1117?style=for-the-badge&logo=instagram&logoColor=instagram)](https://www.instagram.com/wa.rzem/)
 
-[![board]([https://github.com/warzemstonewood/pl/blob/main/krzes%C5%82oLogo.png](https://github.com/warzemstonewood/pl/blob/main/20230508_143601.jpg))]([https://www.instagram.com/wa.rzem/](https://warzemstonewood.github.io/pl/deski.html))
+[![board](https://github.com/warzemstonewood/pl/blob/main/20230508_143601.jpg)]([https://www.instagram.com/wa.rzem/](https://warzemstonewood.github.io/pl/deski.html))
 
 [![chair](https://github.com/warzemstonewood/pl/blob/main/krzes%C5%82oLogo.png)]([https://www.instagram.com/wa.rzem/](https://warzemstonewood.github.io/pl/krzesla.html))
 
