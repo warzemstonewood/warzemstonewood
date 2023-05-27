@@ -9,7 +9,7 @@ Oferujemy unikatowe rzeźbione meble z litego drewna na indywidualne zamówienie
 
 Lite drewno olejowane naturalnymi olejami.
 
-Produkty realizowane: meble ogrodowe, deska podłogowa na legarach z ociepleniem, rzeźbione łóżka, otwierane pikowane ławeczki, stoły do jadalni, drewniane wyspy kuchenne kamiennymi nogami, deski kuchenne do serwowania/ krojenia.
+Produkty realizowane: deski kuchenne do serwowania/ krojenia, rzeźbione łóżka, otwierane pikowane ławeczki, stoły do jadalni, drewniane wyspy kuchenne z kamiennymi nogami, meble ogrodowe, deska podłogowa na legarach z ociepleniem, .
 
 Lite drewno jesionu, brzozy, klonu, dębu, orzecha włoskiego.
 
