@@ -1,4 +1,4 @@
-# [WARZEM Drewno & Kamień](https://warzemstonewood.github.io/pl) <a href="https://warzemstonewood.github.io/pl"><img src="https://github.com/warzemstonewood/warzemstonewood/blob/main/web-icon.svg" width="50" height="50"></a>
+# [WARZEM Drewno & Kamień](https://warzemstonewood.github.io/pl) <a href="https://warzemstonewood.github.io/pl"><img src="https://github.com/warzemstonewood/warzemstonewood/blob/main/web-icon.svg" width="50" height="50" color="blue"></a>
 
 
 
