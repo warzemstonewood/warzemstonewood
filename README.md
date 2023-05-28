@@ -1,4 +1,5 @@
 # [WARZEM Drewno & Kamień](https://warzemstonewood.github.io/pl)
+![website](https://github.com/warzemstonewood/warzemstonewood/blob/main/web-icon.svg)
 
 
 
