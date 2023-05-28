@@ -4,7 +4,7 @@
 
 @Stolarstwo Artystyczne | Lite Drewno | Naturalne Oleje | Jaćwież | Podlasie | Polska 
 
-`Stolarstwo Artystyczne Szyte na Miarę zabezpieczone Naturalnymi Olejami (Jaćwież, Podlasie, Polska)
+`Stolarstwo Artystyczne Szyte na Miarę zabezpieczone Naturalnymi Olejami (Jaćwież, Podlasie, Polska)`
 
 
 Oferujemy unikatowe rzeźbione meble z litego drewna na indywidualne zamówienie w stylu podlaskim, skandynawskim oraz japońskim.
