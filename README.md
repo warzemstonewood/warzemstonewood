@@ -1,19 +1,17 @@
-# [WARZEM Drewno & Kamień](https://warzemstonewood.github.io/pl) <a href="https://warzemstonewood.github.io/pl"><img src="https://github.com/warzemstonewood/warzemstonewood/blob/main/Website-595b40b65ba036ed117d3f78.svg" width="50" height="50"></a>
+# [WARZEM Wood & Stone](https://warzemstonewood.github.io/pl) <a href="https://warzemstonewood.github.io/pl"><img src="https://github.com/warzemstonewood/warzemstonewood/blob/main/Website-595b40b65ba036ed117d3f78.svg" width="50" height="50"></a>
+
+@Artistic Carpentry | Solid Wood | Natural Oils | Yotvingia | Podlachia | Poland 
+
+`Artistic solid wood tailor-made carpentry finished with natural oils form Yotvingia, Podlahia, Poland`
 
 
+We offer unique carved solid wood furniture to individual order in Podlasie, Scandinavian and Japanese styles.
 
-@Stolarstwo Artystyczne | Lite Drewno | Naturalne Oleje | Jaćwież | Podlasie | Polska 
+Solid wood oiled with natural oils.
 
-`Stolarstwo Artystyczne Szyte na Miarę zabezpieczone Naturalnymi Olejami (Jaćwież, Podlasie, Polska)`
+Realized products: kitchen serving/cutting boards, carved beds, openable quilted benches, dining tables, wooden kitchen islands with stone legs, garden furniture, insulated floorboards on joists.
 
-
-Oferujemy unikatowe rzeźbione meble z litego drewna na indywidualne zamówienie w stylu podlaskim, skandynawskim oraz japońskim.
-
-Lite drewno olejowane naturalnymi olejami.
-
-Produkty realizowane: deski kuchenne do serwowania/ krojenia, rzeźbione łóżka, otwierane pikowane ławeczki, stoły do jadalni, drewniane wyspy kuchenne z kamiennymi nogami, meble ogrodowe, deska podłogowa na legarach z ociepleniem.
-
-Lite drewno jesionu, brzozy, klonu, dębu, orzecha włoskiego.
+Solid wood of ash, birch, maple, oak, walnut.
 
 Style: #Hygge #Scandic #Japan #Podlahia
 
@@ -23,14 +21,3 @@ Style: #Hygge #Scandic #Japan #Podlahia
 [![board](https://github.com/warzemstonewood/pl/blob/main/20230508_143601.jpg)]([https://www.instagram.com/wa.rzem/](https://warzemstonewood.github.io/pl/deski.html))
 
 [![chair](https://github.com/warzemstonewood/pl/blob/main/krzes%C5%82oLogo.png)]([https://www.instagram.com/wa.rzem/](https://warzemstonewood.github.io/pl/krzesla.html))
-
-<!-- - 👋 Hi, I’m @warzemstonewood
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-warzemstonewood/warzemstonewood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
