@@ -1,4 +1,4 @@
-# [WARZEM Wood & Stone](https://warzemstonewood.github.io/pl) <a href="https://warzemstonewood.github.io/pl"><img src="https://github.com/warzemstonewood/warzemstonewood/blob/main/Website-595b40b65ba036ed117d3f78.svg" width="50" height="50"></a>
+# [WARZEM Wood & Stone](https://warzemstonewood.github.io/) <a href="https://warzemstonewood.github.io/"><img src="https://github.com/warzemstonewood/warzemstonewood/blob/main/Website-595b40b65ba036ed117d3f78.svg" width="50" height="50"></a>
 
 @Artistic Carpentry | Solid Wood | Natural Oils | Yotvingia | Podlachia | Poland 
 
